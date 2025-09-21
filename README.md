@@ -1,6 +1,5 @@
 ## Estimated Surgery Time for Patient
 Aplicación en Python para estimar la duración de una intervención quirúrgica por paciente a partir de variables preoperatorias. El proyecto incluye el modelo entrenado, un notebook con el proceso de modelado y una app sencilla para realizar predicciones con el modelo. 
-GitHub
 
 **Tecnologías utilizadas:** Python, scikit-learn (modelo serializado con joblib), pandas/numpy (preprocesado), y una app web ligera para inferencia.
 
